@@ -1,4 +1,4 @@
-### MoreStackable
+## MoreStackable (issue tracker)
 
 An add-on for the Item Components mod that increases stack size of nearly all mineable blocks, potions and items.
 
